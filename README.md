@@ -1,7 +1,7 @@
-# automation tasks
+# automation tasks w selenium
 
 ## automated google search
-automate [google searches](#) with python and selenium by taking input from user
+automate [google searches](search/script.py) with python and selenium by taking input from user
 
 ### installation
 1. step one: `pip selenium install`
