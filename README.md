@@ -1,11 +1,14 @@
 # automation tasks w selenium
 
-## automated google search
-automate [google searches](search/script.py) with python and selenium by taking input from user
+### automate google searches (input from user / in command line)
 
-### installation
 1. step one: `pip selenium install`
 2. install chrome browser 
 3. after downloading, extract it and then copy the file in the folder of the script
-4. save `script.py`
-5. run `python script.py` in command line
+4. save `script.py` or `script2.py`
+5. now there are two methods: <br>
+    - if taking input from user <br>
+      run `python script.py` in command line
+    - if taking search string in command line itself <br>
+      run `python script2.py "string of text"`
+
