@@ -13,3 +13,5 @@
     - if taking search string in command line itself <br>
       run `python script2.py "string of text"`
 
+okay if you find a 1:1 copy of this in another github repo just know that it's just me on my main account LOL
+
